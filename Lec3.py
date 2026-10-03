@@ -29,6 +29,9 @@
 # print(Student)
 
 #--------------list Methood-------
+# Ordered Collection of elements
+# Enclosed in [] square brackets
+# Mutable (can be changed)
 
 # list = [34,24,35,67,78,89]
 # list.append(40)
@@ -72,6 +75,10 @@
 
 
 #-------------------------------Tuples-----------------------
+# Ordered collection of element
+# enclosed in () round brackets
+# Different kind of element can be stored in tuple
+# Tuples are immutable (cannot be changed)
 
 # tup = (54,89,98,11,23)
 

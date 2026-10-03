@@ -1,4 +1,8 @@
 #------------------------Dictionary in python------------------
+# An unordered collections of elements
+# Key and Value pair
+# curly braces {} are used to define dictionary
+# Mutable (can be changed)
 
 info = {
     "Name" : "Shahzain",
@@ -84,6 +88,9 @@ Student = {
 
 
 #-----------------------Set In Python--------------------------------------------
+# Unordered & Unindexed collection of elements
+# Enclosed in {} curly braces
+# No duplicate elements allowed
 
 # collection = {1,2,3,4}
 
